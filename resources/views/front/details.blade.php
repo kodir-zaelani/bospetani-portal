@@ -93,7 +93,7 @@
 				</a>
 
                 @empty
-                    <p>Belum ada data terbaru</p>
+                    <p>Belum ada update terbaru</p>
                 @endforelse
 			</div>
             @endif
